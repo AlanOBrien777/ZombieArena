@@ -1,0 +1,25 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (ZombieArena.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Infection.cpp
+C:\Users\catha\Documents\c++ stuffs\VS Projects\ZombieArena\player.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\catha\Documents\c++ stuffs\VS Projects\ZombieArena\Infection.cpp(29,44): warning C4244: '=': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\catha\Documents\c++ stuffs\VS Projects\ZombieArena\Infection.cpp(30,44): warning C4244: '=': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\catha\Documents\c++ stuffs\VS Projects\ZombieArena\Infection.cpp(31,56): warning C4244: 'argument': conversion from 'T' to 'unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\catha\Documents\c++ stuffs\VS Projects\ZombieArena\Infection.cpp(31,42): warning C4244: 'argument': conversion from 'T' to 'unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\catha\Documents\c++ stuffs\VS Projects\ZombieArena\Infection.cpp(142,38): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  ZombieArena.vcxproj -> C:\Users\catha\Documents\c++ stuffs\VS Projects\ZombieArena\Debug\Infection.exe

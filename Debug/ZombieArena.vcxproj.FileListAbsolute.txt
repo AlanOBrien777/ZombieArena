@@ -1,0 +1,2 @@
+C:\Users\catha\Documents\c++ stuffs\VS Projects\ZombieArena\Debug\Infection.exe
+C:\Users\catha\Documents\c++ stuffs\VS Projects\ZombieArena\Debug\Infection.pdb
